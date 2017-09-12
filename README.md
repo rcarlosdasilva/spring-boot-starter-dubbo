@@ -1,0 +1,1 @@
+## Copy from [spring-boot-starter-dubbo](https://github.com/teaey/spring-boot-starter-dubbo) by [teaey](https://github.com/teaey)
